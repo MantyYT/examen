@@ -1,0 +1,82 @@
+.titleSpan {
+    color: black;
+    background-color: darkcyan;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.markText {
+    background-color: yellow;
+}
+
+.animalSpan {
+    color: red;
+}
+
+.myAnimal {
+    color: green;
+    font-size: 25px;
+}
+
+.titleP {
+    font-size: 30px;
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+img {
+    width: 400px;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.textAll {
+    text-align: center;
+    color: green;
+    background-color: yellow;
+    font-size: 30px;
+
+}
+
+iframe {
+    width: 700px;
+    height: 450px;
+}
+
+.endText {
+    color: green;
+    font-size: 20px;
+}
+
+.youText {
+    width: 450px;
+    height: 40px;
+}
+
+.loveAnimal {
+    color: green;
+    font-size: 20px;
+}
+
+
+label {
+    font-size: 20px;
+}
+
+button {
+    width: 200px;
+    height: 30px;
+    background-color: rgb(125, 125, 228);
+    color: white;
+}
+
+.endSpan {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    font-size: 30px;
+}
